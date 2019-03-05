@@ -10,6 +10,7 @@ from pickle import dump
 # setting seed for result consistency
 np.random.seed(3)
 
+# hyper-parameters
 epochs = 10
 batch_size = 128
 
